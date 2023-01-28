@@ -1,0 +1,14 @@
+*
+{
+    margin:10px;
+}
+.A a:hover
+{
+    border: 2px solid rgb(255, 255, 255);
+    background:rgb(0, 0, 0);
+}
+.A a
+{
+
+    margin: 540px;
+}
